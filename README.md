@@ -1,23 +1,32 @@
 # Проект для Яндекс.Практикум: Путешествие по России
 
 ### Стек
-* Интро
-* Figma
-* Картинки
+* CSS
+* HTML
 
-**Интро**
+**Реализация**
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+* Grid
+* Flexbox
+* Медиазапросы
 
-**Figma**
+**Сайт**
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+* [Ссылка на сайт](https://iskitkesh.github.io/russian-travel/index.html)
 
-**Картинки**
+#
+# Projectfor Yandex.Practikum: Travel in Russia
 
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
+### Stack
+* CSS
+* HTML
 
-Удачи!
+**Realization**
+
+* Grid
+* Flexbox
+* Media queries
+
+**Site**
+
+* [Link](https://iskitkesh.github.io/russian-travel/index.html)
