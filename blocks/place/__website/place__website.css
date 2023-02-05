@@ -1,12 +1,14 @@
 .place__website {
-    grid-column: 2/3;
-    grid-row: 1/2;
+    margin: 0;
     align-self: end;
+    display: flex;
+    flex-direction: column;
     justify-self: start;
-}
-
-@media screen and (max-width: 720px) {
+  }
+  
+  @media screen and (max-width: 568px) {
     .place__website {
-        display: none;
+      max-width: calc(100% - 32px);
+      padding-left: 16px;
     }
-}
+  }
