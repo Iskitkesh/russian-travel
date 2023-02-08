@@ -5,10 +5,10 @@
 
   background-color: #2A2C2F;
   max-width: 1280px;
-  min-width: 320px;
+  /*min-width: 320px;*/
   margin: 0 auto;
   padding: 28px 0 24px;
-
+  box-sizing: border-box;
   display: flex;
   flex-direction: column;
 
@@ -31,5 +31,11 @@
 @media screen and (max-width: 568px) {
   .page {
     padding: 16px 0 24px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .page {
+    padding-bottom: 1px;
   }
 }
