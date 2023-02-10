@@ -1,6 +1,8 @@
 .place__website {
-  align-self: end;
+  align-self: flex-end;
+  max-width: 456px;
   margin: 0;
+  padding: 0;
 }
 
 @media screen and (max-width: 568px) {
